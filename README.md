@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @karanimkd
 - 👀 I’m interested in Software Developement
 - 🌱 I’m currently learning Java Full Stack
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: devkatek24@gmail.com
 
 <!---
